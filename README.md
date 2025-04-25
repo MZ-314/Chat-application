@@ -7,7 +7,7 @@ DURATION: 4 WEEKS
 MENTOR: NEELA SANTHOSH KUMAR
 
 PROJECT LINK: https://drive.google.com/drive/folders/1Hc5awuoJ_zlsLEjO-HmHCaqM29dg8-Dd?usp=drive_link 
-(uploaded in Google Drive since I wasn't able to upload the zipped as it was exceeding the size limit of 25 MB)
+(uploaded in Google Drive since I wasn't able to upload the zipped file as it was exceeding the size limit of 25 MB)
 
 Real-Time Chat Application Project Using WebSockets
 This project involves building a real-time chat application using WebSocket technology, creating both frontend and backend components that work together seamlessly.
@@ -72,3 +72,6 @@ Authentication and security practices
 Modern JavaScript development
 
 The final application will demonstrate your ability to create interactive, real-time web applications that go beyond traditional request-response models. This skill is highly valuable in developing modern collaborative tools, gaming applications, and interactive platforms.
+
+![Image](https://github.com/user-attachments/assets/b18d7968-825d-4346-b0aa-f37d34fcc7da)
+![Image](https://github.com/user-attachments/assets/2aef5e27-13b2-4d6a-b051-40b50d4be96c)
